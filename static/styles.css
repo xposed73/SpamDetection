@@ -119,6 +119,13 @@ body{
 	font-size: 12px;
 }
 
+.footer-description-extra{
+	color: #ffffff;
+	margin: 5px;
+	font-family: 'Montserrat';
+	font-size: 18px;
+}
+
 /* Result */
 .results{
     padding: 50px;
