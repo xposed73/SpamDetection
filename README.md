@@ -1,1 +1,1 @@
-# xSpam
+# SpamDetection
